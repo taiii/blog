@@ -1,8 +1,11 @@
 ## [博客]
 
+
+
+### 职业
+*  **»** [浅识硬件发展](https://baidu.com)
+* 
 ### 世界
 
 ### 人文
-
-### 职业
-* it's a demo **»** [demo desc](https://baidu.com)
+*  **»** [](https://baidu.com)
